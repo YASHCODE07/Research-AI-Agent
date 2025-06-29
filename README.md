@@ -102,3 +102,4 @@ Run the main application:
 ```bash
 python agentic_rag.py
 ```
+create README using GPT
